@@ -1,0 +1,9 @@
+# Bỏ qua các file thực thi đã biên dịch
+tcp_client
+tcp_server
+sv_client
+sv_server
+
+# Bỏ qua các file log/data sinh ra trong quá trình chạy
+data.txt
+sv_log.txt
