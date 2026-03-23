@@ -7,3 +7,4 @@ sv_server
 # Bỏ qua các file log/data sinh ra trong quá trình chạy
 data.txt
 sv_log.txt
+chao.txt
