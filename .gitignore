@@ -8,3 +8,11 @@ sv_server
 data.txt
 sv_log.txt
 chao.txt
+database.txt
+*.txt
+chat_client
+chat_server
+telnet_client
+telnet_server
+client
+server
