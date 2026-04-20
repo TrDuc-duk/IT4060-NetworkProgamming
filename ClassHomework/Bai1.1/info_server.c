@@ -59,7 +59,7 @@ int main() {
             printf("%s - ", buf + pos);
             pos += strlen(buf + pos) + 1; // +1 để nhảy qua ký tự \0
 
-            // Đọc kích thước file (8 byte long)
+            // Đọc kích thước file 
             if (pos + sizeof(long) <= ret) {
                 long filesize;
                 memcpy(&filesize, buf + pos, sizeof(long));
