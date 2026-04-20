@@ -1,0 +1,11 @@
+total 108
+-rwxr-xr-x 1 trung_duc trung_duc 16528 Apr 20 14:25 chat_client
+-rw-r--r-- 1 trung_duc trung_duc  1179 Apr 20 14:25 chat_client.c
+-rwxr-xr-x 1 trung_duc trung_duc 16840 Apr 20 14:25 chat_server
+-rw-r--r-- 1 trung_duc trung_duc  5213 Apr 20 14:27 chat_server.c
+-rw-r--r-- 1 trung_duc trung_duc    40 Apr 20 15:00 database.txt
+-rw-r--r-- 1 trung_duc trung_duc     0 Apr 20 15:08 out.txt
+-rwxr-xr-x 1 trung_duc trung_duc 16704 Apr 20 15:04 telnet_client
+-rw-r--r-- 1 trung_duc trung_duc  2953 Apr 20 15:01 telnet_client.c
+-rwxr-xr-x 1 trung_duc trung_duc 16960 Apr 20 15:01 telnet_server
+-rw-r--r-- 1 trung_duc trung_duc  6774 Apr 20 15:00 telnet_server.c
