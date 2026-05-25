@@ -1,0 +1,3 @@
+admin admin
+guest nopass
+hust_student 12345
