@@ -55,8 +55,8 @@ int main()
     puts(buf);
 
     // 2. Dang nhap tu dong (Hardcode theo yeu cau)
-    char username[] = "user_20225180";
-    char password[] = "518011";
+    char username[] = "user_name";
+    char password[] = "password";
 
     // Gui lenh USER
     sprintf(buf, "USER %s\r\n", username);
